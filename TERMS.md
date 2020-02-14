@@ -1,4 +1,5 @@
-## CATALOGUE
+## TERMS AND DEFINITIONS
+### CATALOGUE
 * Big-O Notation
 
 ***
