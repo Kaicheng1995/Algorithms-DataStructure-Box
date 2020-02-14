@@ -1,6 +1,7 @@
-CATALOGUE
+## CATALOGUE
 * Big-O Notation
 
+***
 ***Big-O Notation:***
 
     If and only if there exist constants c, n0, such that:
