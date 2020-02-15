@@ -2,6 +2,6 @@
 Here saves codes writing about algorithms and data structures in Java.  
 
 ## CATALOGUE
-### ***Divide and Conquer Algorithm***
+### ***Project 0***
     * Karatsuba Multiplication
     * Merge Sort (Compared to Selection Sort\Insert Sort\Bubble Sort)
