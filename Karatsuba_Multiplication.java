@@ -17,3 +17,6 @@ Gauss's trick: 3-1-2 = ad + bc
 Upshot: only need 3 recursively multiplication and some additions (Subtraction)
 */
 
+public int kara(int x, int y){
+  int N = 
+}
