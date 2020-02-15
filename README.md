@@ -1,4 +1,4 @@
-# Algorithms-DataStructure-Box
+# cs61b
 Here saves codes writing about algorithms and data structures in Java.  
 
 ## CATALOGUE
