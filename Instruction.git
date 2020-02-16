@@ -1,3 +1,6 @@
+INSTRUCTION URL: https://sp19.datastructur.es/materials/guides/using-git.html
+
+____________
 [1] git init: 
 Set up a repository to track the history of the current directory.
 
@@ -7,8 +10,22 @@ Add/Select a file that we want to track its history.
 [3] git status:
 Show the tracked files and untracked files currently.
 
-[4] git commit -m:
-Stores a snapshot of all added files into the repository.
+[4] git commit -m "added file0"
+Stores a snapshot of all added files into the repository. 
+The -m command lets us add a message to the commit, so we can remember what was most important about this commit.
+NOTICE: If we changed content of a file, we should always use "git add" before "git commit".
+
+[5] git log:
+Show the previous commitments.(Includes ID\AUTHOR\DATE..)
+
+[6] git show "ID":
+See the inside info of a commitment.
+
+[7] git checkout:???
+Rearranges files back to how they looked in a given panoramic photo. Does not affect the panormiac photos in your box in any way.
+
+
+
 
 
 
