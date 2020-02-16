@@ -89,4 +89,15 @@ public class Body{
         }
         return NetForceY;
     }
+    
+    /**  Update new position of a planet under the influence of forces
+     */
+    public void update(double dt, double fx, double fy){
+        double aX = fx / this.mass;
+        double aY = fy / this.mass;
+        this.xxVel = this.xxVel + (dt * aX);
+        this.yyVel = this.yyVel + (dt * aY);
+        this.xxPos = this.xxPos + dt * this.xxVel;
+        this.yyPos = this.yyPos + dt * this.yyVel;
+    }
 }
