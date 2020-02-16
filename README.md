@@ -1,4 +1,4 @@
-# README.md
+# DataStructure & Algorithm
 Here saves codes writing about algorithms and data structures in Java.  
 `Instruction.git` `PROJECT.md`
 
