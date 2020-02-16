@@ -1,6 +1,6 @@
 # NBody Simulation
 
-One Paragraph of project description goes here
+The goal for this project is to write a program simulating the motion of N objects in a plane, accounting for the gravitational forces mutually affecting each object as demonstrated by Sir Isaac Newton’s Law of Universal Gravitation.
 
 ## Getting Started
 
@@ -72,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Kaicheng Jia** - *Initial work* - [Kaicheng1995](https://github.com/Kaicheng1995)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
