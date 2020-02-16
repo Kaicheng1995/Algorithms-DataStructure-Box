@@ -1,1 +1,14 @@
-s
+[1] git init: 
+Set up a repository to track the history of the current directory.
+
+[2] git add:
+Add/Select a file that we want to track its history.
+
+[3] git status:
+Show the tracked files and untracked files currently.
+
+[4] git commit -m:
+Stores a snapshot of all added files into the repository.
+
+
+
