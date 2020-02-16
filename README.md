@@ -1,6 +1,6 @@
 # README.md
 Here saves codes writing about algorithms and data structures in Java.  
-`Instruction.git`
+`Instruction.git``PROJECT.md`
 
 ## CATALOGUE
 * **Project**
