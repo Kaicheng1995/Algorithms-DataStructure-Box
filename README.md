@@ -1,4 +1,4 @@
-# cs61b
+# README.md
 Here saves codes writing about algorithms and data structures in Java.  
 `Instruction.git`
 
