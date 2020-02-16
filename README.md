@@ -4,7 +4,7 @@ Here saves codes writing about algorithms and data structures in Java.
 
 ## CATALOGUE
 * **Project**
-   * *Proj 0* `NBody.java` `NBody.md`
+   * *Proj 0* `NBody.md` `NBody.java` `Body.java`
    * *Proj 1* `basic.java`
    * *Proj 2* `basic.java`
    * *Proj 3* `basic.java`
