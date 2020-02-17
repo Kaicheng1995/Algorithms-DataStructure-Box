@@ -10,7 +10,7 @@ Here saves codes writing about algorithms and data structures in Java.
    * *Proj 3* `basic.java`
    * *Proj 4* `basic.java`
 * **DataStructure**
-   * *List* `IntList.java`
+   * *List* `IntList.java` create a list, size, get ,recursion, iteration...
    * *Tries* `basic.java`
    * *2* `basic.java`
    * *3* `basic.java`
