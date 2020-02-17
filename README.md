@@ -10,7 +10,7 @@ Here saves codes writing about algorithms and data structures in Java.
    * *Proj 3* `basic.java`
    * *Proj 4* `basic.java`
 * **DataStructure**
-   * *Hash Table* `NBody.java`
+   * *List* `IntList.java`
    * *Tries* `basic.java`
    * *2* `basic.java`
    * *3* `basic.java`
