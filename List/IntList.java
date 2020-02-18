@@ -4,16 +4,15 @@
  * 3.create method get to access the List, get the ith item of the list
  */
 public class IntList {
-    public int first;
-    public IntList last;
-
-    public IntList(int f, IntList l) {    //constructor: pass input for later use
+    public int first;                     //content 1
+    public IntList last;                  //content 2
+    public IntList(int f, IntList l) {    //constructor: enable input
         first = f;
         last = l;
     }
 
     public static void main(String[] agrs) {
-        IntList x = new IntList(15, null);      //Intlist x：reference variable
+        IntList x = new IntList(15, null);     //Intlist x：reference variable, create a pointer/box to store the address of IntList(15, null)
         x = new IntList(10, x);
         x = new IntList(5, x);          // create a List
         System.out.println(x.last.first);
