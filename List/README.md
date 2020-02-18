@@ -1,2 +1,2 @@
 Linked List
-Screen Shot 2020-02-18 at 11.01.38 AM
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
