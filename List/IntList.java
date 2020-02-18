@@ -7,13 +7,13 @@ public class IntList {
     public int first;
     public IntList last;
 
-    public IntList(int f, IntList l) {
+    public IntList(int f, IntList l) {    //constructor: pass input for later use
         first = f;
         last = l;
     }
 
     public static void main(String[] agrs) {
-        IntList x = new IntList(15, null);
+        IntList x = new IntList(15, null);      //Intlist x：reference variable
         x = new IntList(10, x);
         x = new IntList(5, x);          // create a List
         System.out.println(x.last.first);
