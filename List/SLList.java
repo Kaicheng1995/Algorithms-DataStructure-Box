@@ -60,7 +60,7 @@ public class SLList {
                      * 1. The SLList class acts as a middleman between the list user and the naked recursive data structure
                      * 2. Users of IntList are need to know Java references well, and be able to think recursively
                      * 3. SLList is much simple to use, using the provided methods
-                     * 4. Implement addFirst in IntList is very ineffient.
+                     * 4. Implement addFirst in IntList is very ineffient
                      */
 
                     /* SLList: */
