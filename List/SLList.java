@@ -46,7 +46,7 @@ public class SLList {
 
     //________ addFirst method________
     public void addFirst(int x) {            //这个 Method 把IntList文件里 main function 里的步骤拆分了，因为SLList没有地址可填就单独创建了一个method
-        first = new IntNode(x, first);      //从最底层 IntNode 做，否则从SLList做会乱
+        first = new IntNode(x, first);       //从最底层 IntNode 做，否则从SLList做会乱
     }
 
     //________ getFirst method________
