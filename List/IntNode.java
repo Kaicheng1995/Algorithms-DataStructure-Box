@@ -64,13 +64,13 @@ public class SLList {
                      */
 
                     /* SLList: */
-                    //SLList L = new SLList(15);
-                    //L.addFirst(10);
-                    //L.addFirst(5);
-                    //int x = L.getFirst();
+                    SLList L = new SLList(15);
+                    L.addFirst(10);
+                    L.addFirst(5);
+                    int x = L.getFirst();
 
                     /* IntList: */
-                    //IntList L = new IntList(15, null);
-                    //L = new IntList(10, L);
-                    //L = new IntList(5, L);
-                    //int x = L.first;
+                    IntList L = new IntList(15, null);
+                    L = new IntList(10, L);
+                    L = new IntList(5, L);
+                    int x = L.first;
