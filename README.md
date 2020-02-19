@@ -19,7 +19,7 @@ Here saves codes writing about algorithms and data structures in Java.
    * *4* `basic.java`
 * **Algorithm**
    * *Devide and Conquer Algorithm* 
-      * *Karatsuba Multiplication* `Kara.java`
+      *  `Kara.java` Karatsuba Multiplication
    * *Tries* `basic.java`
    * *2* `basic.java`
    * *3* `basic.java`
