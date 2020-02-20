@@ -12,7 +12,7 @@ Here saves codes writing about algorithms and data structures in Java.
 * **DataStructure**
    * *List* 
      * `IntList.java` reference, iteration, recursion
-     * `SLList.java` middleman, sentinel
+     * `SLList.java` middleman, sentinel, overload, invariant
    * *Tries* `basic.java`
    * *2* `basic.java`
    * *3* `basic.java`
