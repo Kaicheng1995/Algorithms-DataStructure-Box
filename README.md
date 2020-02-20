@@ -11,8 +11,8 @@ Here saves codes writing about algorithms and data structures in Java.
    * *Proj 4* `basic.java`
 * **DataStructure**
    * *List* 
-     * `IntList.java` create a list, size, get  
-     * `SLList.java` Middleman, addFirst, getFirst, size, fast_size, addlast, empty list, sentinel
+     * `IntList.java` reference, iteration, recursion
+     * `SLList.java` middleman, sentinel
    * *Tries* `basic.java`
    * *2* `basic.java`
    * *3* `basic.java`
