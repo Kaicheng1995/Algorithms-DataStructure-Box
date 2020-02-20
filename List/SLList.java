@@ -13,6 +13,7 @@
  *
  * Comparison: SLList vs IntList
  * Invariant: An invariant is a fact about a data structure that is guaranteed to be true
+ * Overload: Two methods with the same name but different parameters are called overloaded. (see size_recur) 
  */
 
 public class SLList {
