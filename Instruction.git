@@ -6,6 +6,7 @@ Set up a repository to track the history of the current directory.
 
 [2] git add:
 Add/Select a file that we want to track its history.
+NOTICE: Every time when having revised something, we should use always "add" before commit. 
 
 [3] git status:
 Show the tracked files and untracked files currently.
