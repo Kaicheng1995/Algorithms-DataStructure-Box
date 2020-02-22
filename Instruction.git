@@ -21,10 +21,9 @@ Show the previous commitments.(Includes ID\AUTHOR\DATE..)
 [6] git show "ID":
 See the inside info of a commitment.
 
-[7] git checkout:???
+[7] git checkout:
 Rearranges files back to how they looked in a given panoramic photo. Does not affect the panormiac photos in your box in any way.
-
-
+NOTCIE: PLEASE specify a file (or a directory) when using checkout, or you should use "git checkout master" to fix.
 
 
 
