@@ -53,5 +53,33 @@ tracked files: These files have been added to the Git repository and can be in v
 
 [13] Remote Repository
 
+$ git clone [remote-repo-URL]：
+Makes a copy of the specified repository, but on your local computer. Also creates a working directory that has files arranged exactly like the most recent snapshot in the download repository. Also records the URL of the remote repository for subsequent network data transfers, and gives it the special remote-repo-name “origin”.
+
+$ git remote add [remote-repo-name] [remote-repo-URL]: (仓库名默认为origin）
+Records a new location for network data transfers.
+
+$ git push [remote-repo-name] master: (仓库门默认为origin）
+Pushes the most recent copy of your files to the remote-repo-name.
+
+$ git remote -v:
+Lists all locations for network data transfers.
+
+$ git pull [remote-repo-name] master:
+Get the most recent copy of the files as seen in remote-repo-name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
