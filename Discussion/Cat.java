@@ -1,6 +1,6 @@
 public class Cat{
     public String name;
-    public static String noise;           //出现了static variable时，仅存在一个恒定的值。所以无论是以任何形式的改变，其值都将发生改变，并保存下来
+    public static String noise;          //出现了static variable时，仅存在一个恒定的值。所以无论是以任何形式的改变，其值都将发生改变，并保存下来
 
     public Cat(String name, String noise){
         this.name = name;
