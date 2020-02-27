@@ -3,7 +3,7 @@ public class Pokemon {
     public int level;
 
     public Pokemon(String name, int level) {
-        this.name = name;                            //因为name、level和上面的obeject重复了，所以需要用this代表。可以将右边替换为N,L，就可以不用this了
+        this.name = name;                           //因为name、level和上面的obeject重复了，所以需要用this代表。可以将右边替换为N,L，就可以不用this了
         this.level = level;
     }
 
