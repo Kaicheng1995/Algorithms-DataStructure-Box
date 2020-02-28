@@ -1,19 +1,10 @@
 # Discussion Work
 
 ### CATALOGUE
-* **Disc 01** `basic.java` `dog.java`
+* **Disc 01** `SelectionSort.java` `Fib.java`
 ```
-* Variable - Types - Reference Variable Declaration
-* Define Functions 
-* Class - Object - Method 
-* Array 
-* Static & Non-Static Varibles & Method 
-* Command Line Arguements 
-* Library 
-* Constructor
-* Recursion & Iteration (see DataStructure Repo)
-* PUBLIC & PRIVATE & NESTED CLASS (see DataStructure Repo)
-* Memory
+* SelectionSort - 选择排序算法
+* Fib - 斐波那契数列
 ```
 
 * **Disc 02** `Pokemon.java` `Cat.java` `StringList.java` `IntSquare.java`
