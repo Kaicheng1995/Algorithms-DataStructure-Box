@@ -16,19 +16,12 @@
 * Memory
 ```
 
-* **Disc 02** `basic.java` `dog.java`
+* **Disc 02** `Pokemon.java` `Cat.java` `StringList.java` `IntSquare.java`
 ```
-* Variable - Types - Reference Variable Declaration
-* Define Functions 
-* Class - Object - Method 
-* Array 
-* Static & Non-Static Varibles & Method 
-* Command Line Arguements 
-* Library 
-* Constructor
-* Recursion & Iteration (see DataStructure Repo)
-* PUBLIC & PRIVATE & NESTED CLASS (see DataStructure Repo)
-* Memory
+* Pokemon - call mothod 视觉图
+* Cat -
+* StringList - 
+* IntSquare - recursion和interation，针对原列改动和非远列改动
 ```
 * **JavaScript** `basic.js` `React.js`
 ```
