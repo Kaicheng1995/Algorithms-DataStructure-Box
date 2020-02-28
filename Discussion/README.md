@@ -19,9 +19,9 @@
 * **Disc 02** `Pokemon.java` `Cat.java` `StringList.java` `IntSquare.java`
 ```
 * Pokemon - call mothod 视觉图
-* Cat -
-* StringList - 
-* IntSquare - recursion和interation，针对原列改动和非远列改动
+* Cat - static variable 的可改变性及恒定性
+* StringList - list指针变化后造成内容丢失
+* IntSquare - recursion和interation，针对原列改动和非原列改动
 ```
 * **JavaScript** `basic.js` `React.js`
 ```
