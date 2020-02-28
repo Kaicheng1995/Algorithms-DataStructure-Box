@@ -4,6 +4,8 @@
  * 3. S剩三个node时，rest = square ( 指向倒数第二个node )
  * 4. S初始指向数为3个node，即与代入 x 的指向相同, square ( x )
  * 5. rest 最终的值是null，其次都是square()，即 return M 的值
+ * 
+ * 两种方法，以上是recursion，另一种是iteration
  */
 
 public class IntSquare {
@@ -26,6 +28,15 @@ public class IntSquare {
         }
     }
 
+    public static IntSquare squareDestructive(IntSquare S){
+        IntSquare D = S;
+        while (D != null){
+            D.first *= D.first;
+            D = D.last;
+        }
+        return D;
+    }
+    
     public static void main(String[] args){
         IntSquare x = new IntSquare(10, null);
         x = new IntSquare(20, x);
