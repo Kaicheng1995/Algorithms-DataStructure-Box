@@ -5,7 +5,7 @@ The goal for this project is to write a program simulating the motion of N objec
 `Body.java`  `NBody.java`  `StdDraw.java`  `In.java` `StdDraw.java` `/images`  `/data`
 
 ## Getting Started
-<img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/result.png width="200"> <img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/result.png width="200">
+<img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/result.png width="200">  <img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/proj0-netforce.png width="367.5">
 
 ### Prerequisites
 ```
