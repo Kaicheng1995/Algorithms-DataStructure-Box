@@ -10,36 +10,24 @@ The goal for this project is to write a program simulating the motion of N objec
 What things you need to install the software and how to install them
 
 ```
-StdDraw, StdOut
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-```
 Null
 ```
 
 ### Coding
 
-```
+`Body.java`
 * Body.java
 * NBody.java
-* 
-```
+`NBody.java`
+`StdDraw.java`
+`In.java`
+
 
 
 ## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
 ```
-Give an example
+javac NBody.java
+java NBody 157788000.0 25000.0 data/planets.txt
 ```
 
 ## Authors
