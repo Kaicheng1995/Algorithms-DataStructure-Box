@@ -2,7 +2,7 @@
 
 The goal for this project is to write a program simulating the motion of N objects in a plane, accounting for the gravitational forces mutually affecting each object as demonstrated by Sir Isaac Newton’s Law of Universal Gravitation.
 
-`Body.java`  `NBody.java`  `StdDraw.java`  `In.java` `StdDraw.java` `images`  `data`
+`Body.java`  `NBody.java`  `StdDraw.java`  `In.java` `StdDraw.java` `/images`  `/data`
 
 ## Getting Started
 <img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/result.png width="200"> <img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/result.png width="200">
@@ -67,6 +67,4 @@ java NBody 157788000.0 25000.0 data/planets.txt
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* H
