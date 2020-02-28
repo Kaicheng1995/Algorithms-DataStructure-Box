@@ -7,9 +7,7 @@ public class Body{
     public double mass;
     public String imgFileName;
 
-    /** Add 2 constructors that can initalize an instance of the Body class,
-    and it's like creating an access to place INPUT for the Body class
-    IN SHORT: CREATE INPUT!!!! */
+    /** Add 2 constructors that can initalize an instance of the Body class */
     public Body(double xP, double yP, double xV, double yV, double m, String img){
         xxPos = xP;
         yyPos = yP;
@@ -18,7 +16,7 @@ public class Body{
         mass = m;
         imgFileName = img;
     };
-    /* why? 是为了可以引用this吗？*/
+    /* 这个其实没啥用*/
     public Body(Body b){
         xxPos = b.xxPos;
         yyPos = b.yyPos;
@@ -28,7 +26,7 @@ public class Body{
         imgFileName = b.imgFileName;
     };
 
-    /**  Calculate DISTANCE between 2 Body
+    /**  Calculate DISTANCE between 2 Body （距离）
      */
     public double calcDistance(Body b){
         double dxsquare = Math.pow((this.xxPos - b.xxPos),2);
@@ -37,7 +35,7 @@ public class Body{
         return distance;
     }
 
-    /**  Calculate FORCE exerted by another planet
+    /**  Calculate FORCE exerted by another planet （吸引力）
      */
     public double calcForceExertedBy(Body b){
         double G = 6.67e-11;
@@ -46,7 +44,7 @@ public class Body{
     }
 
 
-    /**  Calculate FORCE exerted by another planet in X and Y DIRECTIONS
+    /**  Calculate FORCE exerted by another planet in X and Y DIRECTIONS （吸引力 - XY方向）
      */
     public double calcForceExertedByX(Body b){
         double ForceX = this.calcForceExertedBy(b) * (b.xxPos-this.xxPos) / this.calcDistance(b);
@@ -57,7 +55,7 @@ public class Body{
         return ForceY;
     }
 
-    /**  Calculate NET-FORCE exerted by ALL other planet in X and Y DIRECTIONS
+    /**  Calculate NET-FORCE exerted by ALL other planet in X and Y DIRECTIONS （净吸引力 - XY方向）
      */
     public double calcNetForceExertedByX(Body[] allBodys){
         double NetForceX = 0;
@@ -89,8 +87,8 @@ public class Body{
         }
         return NetForceY;
     }
-    
-    /**  Update new position of a planet under the influence of forces
+
+    /**  Update new position of a planet under the influence of forces （新的位置）
      */
     public void update(double dt, double fx, double fy){
         double aX = fx / this.mass;
@@ -100,4 +98,11 @@ public class Body{
         this.xxPos = this.xxPos + dt * this.xxVel;
         this.yyPos = this.yyPos + dt * this.yyVel;
     }
+
+    /**  Draw planets using StdDraw API
+     */
+    public void draw(){
+        StdDraw.picture(this.xxPos, this.yyPos, "images/" + this.imgFileName);
+    }
+
 }
