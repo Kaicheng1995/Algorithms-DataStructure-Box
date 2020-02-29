@@ -131,4 +131,16 @@ public class LinkedListDeque<T>{
         System.out.println("get result is: " + L.get(2));
         System.out.println("get result is: " + L.getRecursive(2));
     }
+    
+    //deep copy of other list
+    public LinkedListDeque(LinkedListDeque<T> other){
+        sentinel = new Node(null,null,null);
+        sentinel.prev = sentinel;
+        sentinel.next = sentinel;
+        Size = 0;
+
+        for(int i=0; i<other.size(); i++){
+            addLast(other.get(i));
+        }
+    }
 }
