@@ -8,7 +8,6 @@
  *
  *        !!!  SOLUTION 1 : 增加 capacity，例如 reszie (size * 2)
  *        !!!  SOLUTION 2 : 方法一会造成空间浪费，可以设定"usage ratio" = size / item.length, 小于25%会缩减array空间
-
  */
 
 
