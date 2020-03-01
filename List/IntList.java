@@ -73,7 +73,7 @@ public class IntList {
     //________ get RECURSION ________
     public int getrecursion(int i){
         if(i == 0){
-            return this.first;          // NOTICE: Every recursion needs a base case!!!
+            return this.first;          // NOTICE: Every recursion needs a base case!!
         }
         else{
             return this.last.getrecursion(i-1);  // 起到了往后移的作用
