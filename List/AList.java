@@ -1,6 +1,6 @@
 /**
  * shortcoming for DLList:
- *      get() function can be slow, because needing to scan
+ *      get() function can be slow, because needing to scan one by one
  *
  *
  * shortcoming for AList
