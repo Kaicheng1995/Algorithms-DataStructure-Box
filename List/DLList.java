@@ -132,7 +132,7 @@ public class DLList<T>{
         System.out.println("get result is: " + L.getRecursive(2));
     }
 
-    //deep copy of other list
+    //deep copy of "other" list
     public DLList(DLList<T> other){
         sentinel = new Node(null,null,null);
         sentinel.prev = sentinel;
