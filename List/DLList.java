@@ -17,7 +17,7 @@ public class DLList<T>{
     public Node sentinel;
     public int Size;
 
-    //Create empty list
+    //Create an empty list
     public DLList(){
         sentinel = new Node(null, null, null);
         sentinel.prev = sentinel;
