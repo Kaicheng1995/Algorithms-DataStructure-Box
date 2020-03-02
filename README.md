@@ -4,18 +4,18 @@ Here saves codes writing about algorithms and data structures in Java.
 
 ## CATALOGUE
 * **Project**
-   * *Proj 0* `README.md` `NBody.java` `Body.java` `StdDraw.java` `In.java`
-   * *Proj 1A* `README.md` `LinkedListDeque.java` `ArrayDeque.java`
-   * *Proj 1B* `basic.java`
-   * *Proj 3* `basic.java`
-   * *Proj 4* `basic.java`
+   * ***Proj 0 - NBody*** `README.md` `NBody.java` `Body.java` `StdDraw.java` `In.java`
+   * ***Proj 1A - Data Structures*** `README.md` `LinkedListDeque.java` `ArrayDeque.java`
+   * ***Proj 1B - Testing and HoFs*** `basic.java`
+   * ***Proj 3*** `basic.java`
+   * ***Proj 4*** `basic.java`
 * **DataStructure**
    * *List* 
      * `IntList.java` naive list
      * `SLList.java` single pointer list
-     * `DLList.java` double pointer list (circularly)
+     * **`DLList.java`** double pointer list **(circularly)**
      * `AList.java` array list (not circularly)
-     * `ArrayDeque.java` array list (circularly)
+     * **`ArrayDeque.java`** array list **(circularly)**
    * *Testing* 
      * `SelectionSort.java`
      * `SelectionSortTest.java` Junit Implementation
