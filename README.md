@@ -4,8 +4,8 @@ Here saves codes writing about algorithms and data structures in Java.
 
 ## CATALOGUE
 * **Project**
-   * *Proj 0* `README.md` `NBody.java` `StdDraw.java` `In.java`
-   * *Proj 1A* `LinkedListDeque.java` `ArrayDeque.java`
+   * *Proj 0* `README.md` `NBody.java` `Body.java` `StdDraw.java` `In.java`
+   * *Proj 1A* `README.md` `LinkedListDeque.java` `ArrayDeque.java`
    * *Proj 1B* `basic.java`
    * *Proj 3* `basic.java`
    * *Proj 4* `basic.java`
