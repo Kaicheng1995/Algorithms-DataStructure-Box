@@ -19,29 +19,5 @@
 * Foo - call method 视觉图, swap交换
 * QuikMaths - foreach, for, int swap
 ```
-* **JavaScript** `basic.js` `React.js`
-```
-* Variable - Types
-* Define Functions  
-* Object - Method
-* Array
-* Looping
-* Conditionals
-* Comparison
-* Keywords
-```
-```
-* Variable - Types
-* Define Functions  
-* Object - Method
-* Array
-* Looping
-* Conditionals
-* Comparison
-* Keywords
-```
-* **C**
-* **SQL**
-* **R**
-* **HTML**
-* **CSS**
+* **Disc 03** `Pokemon.java` `Cat.java` `StringList.java` `IntSquare.java`
+* **Examprep 03** `Shock.java` `Horse.java` `Foo.java` `QuikMaths.java`
