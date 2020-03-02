@@ -13,8 +13,8 @@ Here saves codes writing about algorithms and data structures in Java.
    * *List* 
      * `IntList.java` naive list
      * `SLList.java` single pointer list
-     * `DLList.java` double pointer list (circularly)
-     * `AList.java` array list (circularly)
+     * `+DLList.java` double pointer list (circularly)
+     * `+ AList.java` array list (circularly)
    * *Tries* `basic.java`
    * *2* `basic.java`
    * *3* `basic.java`
