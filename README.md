@@ -10,13 +10,13 @@ Here saves codes writing about algorithms and data structures in Java.
    * *Proj 3* `basic.java`
    * *Proj 4* `basic.java`
 * **DataStructure**
-   * *List* `IntList.java` `SLList.java` `AList.java` **`DLList.java`** **`ArrayDeque.java`**
+   * *List* `IntList.java` `SLList.java` `AList.java` **`DLList.java`** **`ArrayDeque.java`**  
    ```diff
    # IntList - naive list
    # SLList - single pointer list
    # AList - array list (not circularly)
-   + DLList - double pointer list (circularly)
-   + ArrayDeque - array list (circularly)
+   ! DLList - double pointer list (circularly)
+   ! ArrayDeque - array list (circularly)
    ```
    * *Testing* 
      * `SelectionSort.java`
