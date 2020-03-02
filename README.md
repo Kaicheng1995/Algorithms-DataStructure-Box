@@ -2,6 +2,8 @@
 Here saves codes writing about algorithms and data structures in Java.  
 `Instruction.git` `/Testing` `/img_folder`
 
+$\color{#FF0000}{红色字}$
+
 ## CATALOGUE
 * **Project**
    * *Proj 0 - NBody* `README.md` `NBody.java` `Body.java` `StdDraw.java` `In.java`
@@ -14,7 +16,7 @@ Here saves codes writing about algorithms and data structures in Java.
      * `IntList.java` naive list
      * `SLList.java` single pointer list
      * `AList.java` array list (not circularly)
-     * **`DLList.java`** <font color=red> double pointer list **(circularly)**
+     * **`DLList.java`** <font color=red>double pointer list (circularly) $\color{red}{红色字}$
      * **`ArrayDeque.java`** array list **(circularly)**
    * *Testing* 
      * `SelectionSort.java`
