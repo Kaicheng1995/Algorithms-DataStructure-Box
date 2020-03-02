@@ -14,7 +14,7 @@ Here saves codes writing about algorithms and data structures in Java.
      * `IntList.java` naive list
      * `SLList.java` single pointer list
      * `AList.java` array list (not circularly)
-     * **`DLList.java`** double pointer list **(circularly)**
+     * **`DLList.java`** <font color=red> double pointer list **(circularly)**
      * **`ArrayDeque.java`** array list **(circularly)**
    * *Testing* 
      * `SelectionSort.java`
