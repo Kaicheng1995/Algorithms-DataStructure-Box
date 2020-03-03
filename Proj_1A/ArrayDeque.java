@@ -23,7 +23,7 @@ public class ArrayDeque<T>{
     /* check waste */
     public boolean isWaste(){
         return items.length >=16
-                && (size / items.length) < WasteLine;
+                && size  < items.length * WasteLine;         //为什么不能写成 (size / items.length) < WasteLine ???????
     }
 
     /* check empty */
@@ -190,7 +190,7 @@ public class ArrayDeque<T>{
      */
     public ArrayDeque(ArrayDeque<T> other){
 
-        items = (T[]) new Object[8];
+        items = (T[]) new Object[other.size];
         front = 0;
         back = 1;
         size = 0;
@@ -211,6 +211,16 @@ public class ArrayDeque<T>{
         test.addFirst(5);
         test.addFirst(4);
         test.addFirst(3);
+        test.addLast(10);
+        test.addLast(20);
+        test.addFirst(5);
+        test.addFirst(4);
+        test.addFirst(3);
+        test.addLast(10);
+        test.addLast(20);
+        test.addFirst(5);
+        test.addFirst(4);
+        test.addFirst(3);
         test.removeFirst();
         test.removeLast();
 
@@ -224,3 +234,4 @@ public class ArrayDeque<T>{
     }
 
 }
+
