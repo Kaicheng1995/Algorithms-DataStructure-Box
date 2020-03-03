@@ -1,8 +1,8 @@
 # Data Structures
 
 Inplement 2 of BEST data structures:  
-1. Linked List Deque
-2. Array Deque
+* Linked List Deque
+* Array Deque
 
 `LinkedListDeque.java`  `ArrayDeque.java`
 
