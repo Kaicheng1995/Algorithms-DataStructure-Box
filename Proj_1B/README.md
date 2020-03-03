@@ -5,25 +5,25 @@ In this project, use the deques from project 1A to solve a real world problem. A
 `Palindrome.java`  `Deque.java` `CharacterComparator.java` `Sub Class` `Test doc`
 
 ## Getting Started
-<img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/result.png width="200">  <img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/proj0-netforce.png width="367.5">
+<img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/proj%201b.png width="700">
+
+**`junit test`** - **`sub class`** - **`interface`** - **`main class`**  
+
 
 ### Prerequisites
 ```
 JUnit 4.12, and other libraries
 ```
 
-### Coding
+### Coding 
+
+**`main class`**
 
 ```
-Body.java
-         * Planet Initialization - (location, velocity, mass, name)
-         * Planet Constructor
-         * Planet Distance
-         * Planet Force - （by 1)
-         * Planet Force XY
-         * Planet Net Force XY - (by all)
-         * Planet Update
-         * Planet Draw - (use API)
+Palindrome.java
+             * wordToDeque - store word into data structure (LinkedList or Array)
+             * isPalindrome(String word) - check palindrome
+             * isPalindrome(String word, CharacterComparator cc) - check palindrome by diff 1 & N
 ```
 
 ```
