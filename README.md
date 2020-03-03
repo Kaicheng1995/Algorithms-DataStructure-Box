@@ -4,9 +4,9 @@ Here saves codes writing about algorithms and data structures in Java.
 
 ## CATALOGUE
 * **Project**
-   * *Proj 0 - NBody* `README.md` `NBody.java` `Body.java` `StdDraw.java` `In.java`
-   * *Proj 1A - Data Structures* `README.md` `LinkedListDeque.java` `ArrayDeque.java`
-   * *Proj 1B - Testing and HoFs* `basic.java`
+   * *Proj 0 - NBody*  `NBody.java` `Body.java` `StdDraw.java` `In.java`
+   * *Proj 1A - Data Structures*  `LinkedListDeque.java` `ArrayDeque.java`
+   * *Proj 1B - Testing and HoFs* `Test doc` - `Sub Class` - `Interface` - `Main Class` - `Test doc`
    * *Proj 3* `basic.java`
    * *Proj 4* `basic.java`
 * **DataStructure**
