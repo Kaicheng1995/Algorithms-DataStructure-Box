@@ -69,10 +69,11 @@ public class DLList<T>{
             return null;
         }
         else {
+            T output = sentinel.next.item;
             sentinel.next = sentinel.next.next;
             sentinel.next.prev = sentinel;
             Size -= 1;
-            return sentinel.next.item;
+            return output;
         }
     }
 
@@ -82,10 +83,11 @@ public class DLList<T>{
             return null;
         }
         else {
+            T output = sentinel.prev.item;
             sentinel.prev = sentinel.prev.prev;
             sentinel.prev.next = sentinel;
             Size -= 1;
-            return sentinel.prev.item;
+            return output;
         }
     }
 
