@@ -3,6 +3,8 @@
 Inplement 2 of the BEST data structures:  
 * Linked List Deque
 * Array Deque
+<img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/List/DLList%20-%20circularly.png width="400">
+<img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/List/ArrayDeque.png width="500">
 
 `LinkedListDeque.java`  `ArrayDeque.java`
 
