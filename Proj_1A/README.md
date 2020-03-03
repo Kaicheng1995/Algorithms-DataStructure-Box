@@ -1,6 +1,6 @@
 # Data Structures
 
-Inplement 2 of BEST data structures:  
+Inplement 2 of the BEST data structures:  
 * Linked List Deque
 * Array Deque
 
