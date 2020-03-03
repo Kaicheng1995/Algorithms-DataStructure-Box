@@ -1,2 +1,17 @@
-Linked List
-![Image text](https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/IntList.png)
+### IntList 
+
+
+
+### SLList (with sentinel)
+
+
+
+### DLList (with sentinel) = circularly
+
+
+
+### AList
+
+
+
+### ArrayDeque (with 2 sentinel) = circularly
