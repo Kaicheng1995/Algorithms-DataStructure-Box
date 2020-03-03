@@ -1,3 +1,36 @@
+/**
+ * ArrayDeque
+ * implemented in circular way,
+ *        see url: https://docs.google.com/presentation/d/1XBJOht0xWz1tEvLuvOL4lOIaY0NSfArXAvqgkrx0zpc/edit#slide=id.g305593f781_2_0
+ *
+ * @author Kaicheng
+ */
+
+
+/**
+ * Methods
+ *
+ * addFirst : add an item to the front of the deque
+ * addLast : add an item to the back of the deque
+ * isEmpty : check if it's empty deque
+ * size : return size
+ * printDeque : print out items in the deque
+ * removeFirst : remove and return the item at the front
+ * removeLast : remove and return the item at the back
+ * get : get the ith item
+ *
+ *
+ * ifFull: check full
+ * isWaste: check waste
+ * Next_One: return the recursive index of the next T's index
+ * Prev_One: return the recursive index of the previous T's index
+ * resize : including upsize and downsize
+ * upsize : make bigger
+ * downsize : make smaller
+ *
+ */
+
+
 public class ArrayDeque<T>{
 
     private T[] items;
@@ -23,7 +56,7 @@ public class ArrayDeque<T>{
     /* check waste */
     public boolean isWaste(){
         return items.length >=16
-                && (size / items.length) < WasteLine;
+                && size  < items.length * WasteLine;         //为什么不能写成 (size / items.length) < WasteLine ???????
     }
 
     /* check empty */
@@ -190,7 +223,7 @@ public class ArrayDeque<T>{
      */
     public ArrayDeque(ArrayDeque<T> other){
 
-        items = (T[]) new Object[8];
+        items = (T[]) new Object[other.size];
         front = 0;
         back = 1;
         size = 0;
@@ -206,6 +239,16 @@ public class ArrayDeque<T>{
     public static void main(String args[]){
         ArrayDeque<Integer> test = new ArrayDeque<>();
 
+        test.addLast(10);
+        test.addLast(20);
+        test.addFirst(5);
+        test.addFirst(4);
+        test.addFirst(3);
+        test.addLast(10);
+        test.addLast(20);
+        test.addFirst(5);
+        test.addFirst(4);
+        test.addFirst(3);
         test.addLast(10);
         test.addLast(20);
         test.addFirst(5);
