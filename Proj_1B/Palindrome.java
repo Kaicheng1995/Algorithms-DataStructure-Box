@@ -57,6 +57,7 @@ public class Palindrome {
             //等号的意义在同时满足，当第一次满足 equalChars（a，b）时，为了获得return值，需要重复 call method。当出现一次不满足时
             //直接跳出return false结束，如果一致满足到跳出了while loop，直接return true》
             return cc.equalChars(a, b) && isPalindrome(wordInDeque, cc);
+            //cc的值代表True or False, 别忘了boolean是一种数据类型
         }
         return true;
     }
