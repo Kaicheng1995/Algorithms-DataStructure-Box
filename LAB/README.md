@@ -1,23 +1,11 @@
-# Discussion Work
+# LAB
 
 ### CATALOGUE
-* **Disc 01** `SelectionSort.java` `Fib.java`
+* **Lab 01** `LeapYear.java`
+* **Lab 02** `DebugExercise123.java` `IntList.java`
 ```
-* SelectionSort - 选择排序算法
-* Fib - 斐波那契数列
+* DebugExercise - 熟悉使用IDE
+* IntList - 分别使用 recursion/iteration 针对 destructive 和 non-d 两种方式内容修改
 ```
-
-* **Disc 02** `Pokemon.java` `Cat.java` `StringList.java` `IntSquare.java`
-* **Examprep 02** `Shock.java` `Horse.java` `Foo.java` `QuikMaths.java`
-```
-* Pokemon - call mothod 视觉图
-* Cat - static variable 的可改变性及恒定性
-* StringList - list指针变化后造成内容丢失
-* IntSquare - recursion和interation，针对原列改动和非原列改动
-* Shock - tatic variable 的可改变性及恒定性
-* Horse - this.的使用及显示优先级
-* Foo - call method 视觉图, swap交换
-* QuikMaths - foreach, for, int swap
-```
-* **Disc 03** `Pokemon.java` `Cat.java` `StringList.java` `IntSquare.java`
+* **Lab 03** `Pokemon.java` `Cat.java` `StringList.java` `IntSquare.java`
 * **Examprep 03** `Shock.java` `Horse.java` `Foo.java` `QuikMaths.java`
