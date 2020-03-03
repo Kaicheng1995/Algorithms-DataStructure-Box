@@ -26,39 +26,32 @@ Palindrome.java
              * isPalindrome(String word, CharacterComparator cc) - check palindrome by diff 1 & N
 ```
 
+**`interface`**
 ```
-NBody.java
-         * Universe Radius
-         * Universe Planets - (an array)
-         * Main Function
-                 * Read file
-                 * Draw background
-                 * Draw Planets
-                 * Create animation - (time loop + planet update loop)
-                 * Print out
-```
-```
-StdDraw.java
-         * setScale(input);
-         * clear(); - (clear screen to default color white)
-         * enableDoubleBuffering(); - (prevent flickery)
-         * show(); - (show the offscreen buffer
-         * pause(); - (reduce velocity)
-         * picture(input); - (draw picture)         
-```
-```
-In.java
-         * In in = new In(filename); 
-         * readDouble();
-         * readString();
-         * readInt();
+Deque.java
+         * add, remove, get, isEmpty, size....all the same method name in Array and LinkedList
+         
+CharacterComparator.java
+         * equalChars() - check equal in special conditions (like diff 1 or N)
 ```
 
+**`sub class`**
+```
+Yellow File
+         * implements
+         * @Override
+         * methods exist in differents sub classes but have same method name and return type, they can be recalled through interface.
+```
+**`junit test`**
+```
+green File
+         * @Test
+         * assertEquals, assertTrue, assertFalse
+```
 
 ## Running the tests
 ```
-javac NBody.java
-java NBody 157788000.0 25000.0 data/planets.txt
+IDE RUN
 ```
 
 ## Authors
