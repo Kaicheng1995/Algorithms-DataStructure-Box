@@ -141,6 +141,6 @@ public class DLList<T>{
 
         for(int i=0; i<other.size(); i++){
             addLast(other.get(i));
-        }
+        } 
     }
 }
