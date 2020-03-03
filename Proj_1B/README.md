@@ -2,7 +2,7 @@
 
 In this project, use the deques from project 1A to solve a real world problem. Along the way, also write tests of the application to make sure that everything works correctly.
 
-`Body.java`  `NBody.java`  `StdDraw.java`  `In.java` `StdDraw.java` `/images`  `/data`
+`Palindrome.java`  `Deque.java` `CharacterComparator.java` `Sub Class` `Test doc`
 
 ## Getting Started
 <img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/result.png width="200">  <img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/proj0-netforce.png width="367.5">
