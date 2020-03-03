@@ -1,6 +1,7 @@
 # Testing and HoFs
 
-In this project, use the deques from project 1A to solve a real world problem. Along the way, also write tests of the application to make sure that everything works correctly. 
+In this project, use the deques from project 1A to solve a real world problem. Along the way, also write tests of the application to make sure that everything works correctly.  
+
 Basically, the project aims to recognize if a string is a palindrome, diff-by-one palindrome, or diff-by-N palindrome. By completing the project, I've learnt stuff about interface and testing.
 
 `Palindrome.java`  `Deque.java` `CharacterComparator.java` `Sub Class` `Test doc`
