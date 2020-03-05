@@ -3,7 +3,8 @@
 ### CATALOGUE
 * **Lab 01 - javac, java, git** `LeapYear.java` 
   
-____
+  
+  
 
 * **Lab 02 - Unit Testing with JUnit and IntLists**  `DebugExercise123.java` `IntList.java` `IntListTest.java`
 ```
