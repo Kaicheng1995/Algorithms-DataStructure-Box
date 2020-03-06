@@ -19,5 +19,10 @@
 * Foo - call method 视觉图, swap交换
 * QuikMaths - foreach, for, int swap
 ```
-* **Disc 03** `Pokemon.java` `Cat.java` `StringList.java` `IntSquare.java`
+* **Disc 03** `SLList.java` `Cat.java` `StringList.java` `IntSquare.java`
+```
+* SLList 的两种reverse解法（略难见图）
+* Array（SLList.java里）- 的reverse，insert等练习
+```
+<img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/reverse%20-%20iter.png width="400"> <img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/reverse%20-%20recur.png width="400">
 * **Examprep 03** `Shock.java` `Horse.java` `Foo.java` `QuikMaths.java`
