@@ -21,8 +21,13 @@
 ```
 * **Disc 03** `SLList.java` `Cat.java` `StringList.java` `IntSquare.java`
 ```
-* SLList 的两种reverse解法（略难见图）
-* Array（SLList.java里）- 的reverse，insert等练习
+* SLList - 的两种reverse解法（略难~见图）
+* Array - （SLList.java里）- 的reverse，insert等练习
 ```
 <img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/reverse%20-%20recur.png width="400"><img src=https://github.com/Kaicheng1995/DataStructure_Algorithm/blob/master/img_folder/reverse%20-%20iter.png width="400"> 
-* **Examprep 03** `Shock.java` `Horse.java` `Foo.java` `QuikMaths.java`
+* **Examprep 03** `Flatten.java` `IntList_Skippify.java` `IntList_Sans.java`
+```
+* Flatten - 2D array
+* Skippify - IntList的跳越取数（略难~）
+* Sans - IntList的删减制定数字（recursion 理解障碍!)
+```
