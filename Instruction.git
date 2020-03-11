@@ -76,6 +76,36 @@ Get the most recent copy of the files as seen in remote-repo-name
 
 
 
+git clone + url
+
+git status
+
+git add
+
+git commit -m ""
+
+git push //update to github
+
+git pull //show the latest version
+
+
+ 
+
+
+
+git branch + branchname // add new branch
+
+git branch // show branch
+
+git checkout branchname // switch branch
+
+git checkout -b + branchname // create and switch to branch
+
+pull request // 先创建其他branch，不要直接在master上修改
+
+Open Source Instruction
+
+Trello
 
 
 
