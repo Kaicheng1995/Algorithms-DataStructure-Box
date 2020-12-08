@@ -43,16 +43,3 @@ ArrayDeque.java
              * public ArrayDeque()
              * public ArrayDeque(ArrayDeque other)         
 ```
-
-## Running the tests
-```
-IDE RUN
-```
-
-## Authors
-
-* **Kaicheng Jia** - *Initial work* - [Kaicheng1995](https://github.com/Kaicheng1995)
-
-## Acknowledgments
-
-* H
