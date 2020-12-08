@@ -1,41 +1,39 @@
 # DataStructure & Algorithm
-Here saves codes writing about algorithms and data structures in Java.  
-`Instruction.git` `/Testing` `/img_folder`
+Here saves codes of my self-study notes in data structures. [Berkeley CS61bl summer 2020](https://cs61bl.org/su20/)
+
 
 ## CATALOGUE
 * **Project**
-   * *Proj 0 - NBody*  `NBody.java` `Body.java` `StdDraw.java` `In.java`
-   * *Proj 1A - Data Structures*  **`LinkedListDeque.java` `ArrayDeque.java`**
-   * *Proj 1B - Testing and HoFs* **`Test doc` - `Sub Class` - `Interface` - `Main Class` - `Test doc`**
-   * *Proj 3* `basic.java`
-   * *Proj 4* `basic.java`
-* **DataStructure**
-   * *List* 
-     * `IntList.java` - naive list 
-     * `SLList.java` - single pointer list
-     * `AList.java` - array list (not circularly)
-     * **`DLList.java`** - double pointer list (circularly)
-     * **`ArrayDeque.java`** - array list (circularly)
-   * *Testing* 
-     * `SelectionSort.java`
-     * `SelectionSortTest.java` Junit Implementation
-   * *2* `basic.java`
-   * *3* `basic.java`
-   * *4* `basic.java`
-* **LAB**
-   * *lab1* `lab1.java`
-   * *lab2* `lab2.java`
+   * *Proj0 - NBody*  `Java Practice`
+   * *Proj1 - Deques* **`List`** - **`Interface`**
+   * *Proj2 - Gitlet* **`Trees`** - **`HashMap`**
+   * *Proj3 - BearMap* **`K-D Tree`** - **`Minheap`** - **`Graph`** - **`A* Algorithm`**
+
+* **Labs**
+   * *lab1* `Java` `Git`
+   * *lab2* `Primitives` `Objects`
+   * *lab3* `Conditionals` `Loops` `Arrays`
+   * *lab4* `Debugging` `Testing`
+   * *lab5* `Linked List`
+   * *lab6* `SLList`
+   * *lab7* `Asymptotics` `Encapsulation`
+   * *lab8* `Collections` `Interfaces` `ADTs`
+   * *lab9* `Persistence`
+   * *lab10* `Higher Order Functions` `Interitence`
+   * *lab11* `Exceptions` `Iteration` `Streams`
+   * *lab12* `Trees` `Traversals`
+   * *lab13* `Binary Search Tree`
+   * *lab14* `Balanced Search Tree`
+   * *lab15* `K-D Tree` `Tries`
+   * *lab16* `Hashing`
+   * *lab17* `Heaps` `Priority Queues`
+   * *lab18* `Graphs`
+   * *lab19* `Graph Algorithms`
+   * *lab20* `Disjoint Sets`
+   * *lab21* `Minimum Spanning Trees`
+   * *lab22* `Comparison Sorts`
+   * *lab23* `Counting Sorts`
+   * *lab24* `Regex`
+
+
    
-* **Exercise**
-
-* **Algorithm**
-   * *Devide and Conquer Algorithm* 
-      *  `Kara.java` Karatsuba Multiplication
-   * *Tries* `basic.java`
-   * *2* `basic.java`
-   * *3* `basic.java`
-   * *4* `basic.java`
-
-#### ***Project 0***
-    * Karatsuba Multiplication
-    * Merge Sort (Compared to Selection Sort\Insert Sort\Bubble Sort)
