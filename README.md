@@ -1,4 +1,4 @@
-# DataStructure & Algorithm
+# DataStructures
 Here saves codes of my self-study notes in data structures. [Berkeley CS61bl summer 2020](https://cs61bl.org/su20/)
 
 
