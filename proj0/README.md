@@ -62,11 +62,3 @@ In.java
 javac NBody.java
 java NBody 157788000.0 25000.0 data/planets.txt
 ```
-
-## Authors
-
-* **Kaicheng Jia** - *Initial work* - [Kaicheng1995](https://github.com/Kaicheng1995)
-
-## Acknowledgments
-
-* H
