@@ -1,5 +1,5 @@
 # DataStructures
-Here saves codes of my self-study notes in data structures. [Berkeley CS61bl summer 2020](https://cs61bl.org/su20/)
+Here saves codes of my self-study notes in data structures. [CS61B SP19](https://sp19.datastructur.es/), [SU 20](https://cs61bl.org/su20/)
 
 
 ## CATALOGUE
