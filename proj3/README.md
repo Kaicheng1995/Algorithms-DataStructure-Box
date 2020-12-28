@@ -3,7 +3,8 @@
 My job for this project is to implement the back end of a web server. To use your program, a user will open an html file in their web browser that displays a map of the city of Berkeley, and the interface will support scrolling, zooming, and route finding (similar to Google Maps).
 
 * [Demo](http://bearmaps-su20-s1.herokuapp.com/map.html#lat=37.871826&lon=-122.260086&depth=2)
-* [Project Instruction](https://cs61bl.org/su20/projects/bearmaps/#overview)
+* [Project Instruction sp19](https://sp19.datastructur.es/materials/proj/proj2c/proj2c)
+* [Project Instruction su20](https://cs61bl.org/su20/projects/bearmaps/#overview)
 
 
 ## Parts of this Project
